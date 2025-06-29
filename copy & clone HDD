@@ -1,0 +1,7 @@
+#enable ssh on ESXI
+connect by ssh
+root@localhost:/vmfs/volumes/storage name
+#next
+cp vmdk in new Vm
+next
+esxi on browser & add storage in new machine
