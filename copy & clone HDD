@@ -2,6 +2,6 @@
 connect by ssh
 root@localhost:/vmfs/volumes/storage name
 #next
-cp vmdk in new Vm
+cp .vmdk in new Vm    هر فایلی که با فرمت vmdk 
 next
 esxi on browser & add storage in new machine
